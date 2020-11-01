@@ -1,6 +1,11 @@
-# taskbox
+# Updating Learnstorybook's Vue Guide to v6
 
-Chromatic: https://www.chromatic.com/library?appId=5f7a35004e95b90022f24023
+This is a test repo for writing & testing the new Vue snippets for Storybook v6.
+
+PR: https://github.com/chromaui/learnstorybook.com/pull/405
+
+Learnstorybook: https://www.learnstorybook.com/intro-to-storybook/vue/en/get-started/
+
 
 ## Project setup
 
